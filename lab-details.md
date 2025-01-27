@@ -23,5 +23,5 @@
 | 21      | u21@cloudlabs-att.online  | East US            | Standard DSv3 Family vCPUs, Standard Dv3 Family vCPUs | Kasirajan           |
 | 22      | u22@cloudlabs-att.online  | Japan East         | Standard DSv3 Family vCPUs                        | Raghwendra        |
 | 23      | u23@cloudlabs-att.online  | Japan East         | Standard DSv3 Family vCPUs                        | Abhinav           |
-| 24      | u24@cloudlabs-att.online  | Japan East         | Standard DSv3 Family vCPUs                        | Shheshagiri       |
+| 24      | u24@cloudlabs-att.online  | Japan East         | Standard DSv3 Family vCPUs                        | Seshagiri       |
 | 25      | u25@cloudlabs-att.online  | North Europe       | Standard DDv4 Family vCPUs, Standard DSv3 Family vCPUs | Mohammad Safwan   |
