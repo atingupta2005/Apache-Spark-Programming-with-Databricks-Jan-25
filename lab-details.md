@@ -1,7 +1,7 @@
 | **Sno** | **Login ID**              | **Alloted Region** | **CPU Type**                                        | **Name**          |
 |---------|---------------------------|--------------------|----------------------------------------------------|-------------------|
 | 1       | u01@cloudlabs-att.online  | Australia East     | Standard DSv3 Family vCPUs                        | Lokesh            |
-| 2       | u02@cloudlabs-att.online  | Australia East     | Standard DSv3 Family vCPUs                        | Chaitanya Sakoji  |
+| 2       | u02@cloudlabs-att.online  | AustraliaEast     | Standard DSv3 Family vCPUs                        | Chaitanya Sakoji  |
 | 3       | u03@cloudlabs-att.online  | Australia East     | Standard DSv3 Family vCPUs                        | Babu              |
 | 4       | u04@cloudlabs-att.online  | Brazil South       | Standard DSv3 Family vCPUs, Standard Dv3 Family vCPUs | Gyan              |
 | 5       | u05@cloudlabs-att.online  | Brazil South       | Standard DSv3 Family vCPUs, Standard Dv3 Family vCPUs | Shivendra         |
