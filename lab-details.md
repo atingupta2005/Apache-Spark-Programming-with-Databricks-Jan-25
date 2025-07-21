@@ -18,7 +18,7 @@
 | 16      | [u16@cloudlabs-att.online](mailto:u16@cloudlabs-att.online) | East Asia          | Standard DSv3 Family vCPUs, Standard Dv3 Family vCPUs  | Aniket Taneja            |
 | 17      | [u17@cloudlabs-att.online](mailto:u17@cloudlabs-att.online) | East Asia          | Standard DSv3 Family vCPUs, Standard Dv3 Family vCPUs  | Sanjay Singh Negi        |
 | 18      | [u18@cloudlabs-att.online](mailto:u18@cloudlabs-att.online) | East Asia          | Standard DSv3 Family vCPUs, Standard Dv3 Family vCPUs  | Shubhi Agarwal           |
-| 19      | [u19@cloudlabs-att.online](mailto:u19@cloudlabs-att.online) | East US            | Standard DSv3 Family vCPUs, Standard Dv3 Family vCPUs  | Vikash Gaurav            |
+| 19      | [u19@cloudlabs-att.online](mailto:u19@cloudlabs-att.online) | East US            | Standard DSv3 Family vCPUs, Standard Dv3 Family vCPUs  | Mohit            |
 | 20      | [u20@cloudlabs-att.online](mailto:u20@cloudlabs-att.online) | East US            | Standard DSv3 Family vCPUs, Standard Dv3 Family vCPUs  | Shanmukh Sai             |
 | 21      | [u21@cloudlabs-att.online](mailto:u21@cloudlabs-att.online) | East US            | Standard DSv3 Family vCPUs, Standard Dv3 Family vCPUs  | Chaitanya Indana |
 | 22      | [u22@cloudlabs-att.online](mailto:u22@cloudlabs-att.online) | Japan East         | Standard DSv3 Family vCPUs                             | Mounica Sinamgaram |
