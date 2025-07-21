@@ -1,6 +1,6 @@
 | **Sno** | **Login ID**                                                | **Alloted Region** | **CPU Type**                                           | **Name**                 |
 | ------- | ----------------------------------------------------------- | ------------------ | ------------------------------------------------------ | ------------------------ |
-| 1       | [u01@cloudlabs-att.online](mailto:u01@cloudlabs-att.online) | Australia East     | Standard DSv3 Family vCPUs                             | Atin Gupta               |
+| 1       | [u01@cloudlabs-att.online](mailto:u01@cloudlabs-att.online) | Australia East     | Standard DSv3 Family vCPUs                             | Basanto, Gem               |
 | 2       | [u02@cloudlabs-att.online](mailto:u02@cloudlabs-att.online) | Australia East     | Standard DSv3 Family vCPUs                             | Aman Verma               |
 | 3       | [u03@cloudlabs-att.online](mailto:u03@cloudlabs-att.online) | Australia East     | Standard DSv3 Family vCPUs                             | Ankit Bisht              |
 | 4       | [u04@cloudlabs-att.online](mailto:u04@cloudlabs-att.online) | Brazil South       | Standard DSv3 Family vCPUs, Standard Dv3 Family vCPUs  | Kumar Pushpam            |
