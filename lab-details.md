@@ -26,5 +26,7 @@
 | 24      | [u24@cloudlabs-att.online](mailto:u24@cloudlabs-att.online) | Japan East         | Standard DSv3 Family vCPUs                             | Amit Kumar               |
 | 25      | [u25@cloudlabs-att.online](mailto:u25@cloudlabs-att.online) | North Europe       | Standard DDv4 Family vCPUs, Standard DSv3 Family vCPUs |  Rishabh Mishra  |
 | 26      | [u26@cloudlabs-att.online](mailto:u25@cloudlabs-att.online) | North Europe       | Standard DDv4 Family vCPUs, Standard DSv3 Family vCPUs | Vishal Gupta |
-| 27      | [u27@cloudlabs-att.online](mailto:u25@cloudlabs-att.online) | North Europe       | Standard DDv4 Family vCPUs, Standard DSv3 Family vCPUs | TSSrikrishna |
-| 28      | [u28@cloudlabs-att.online](mailto:u25@cloudlabs-att.online) | North Europe       | Standard DDv4 Family vCPUs, Standard DSv3 Family vCPUs | tanveer ansari |
+| 27      | [u27@cloudlabs-att.online](mailto:u25@cloudlabs-att.online) | East Asia       | Standard DDv4 Family vCPUs, Standard DSv3 Family vCPUs | TSSrikrishna |
+| 28      | [u28@cloudlabs-att.online](mailto:u25@cloudlabs-att.online) | Japan East         | Standard DDv4 Family vCPUs, Standard DSv3 Family vCPUs | tanveer ansari |
+| 29      | [u29@cloudlabs-att.online](mailto:u25@cloudlabs-att.online) | Australia East       | Standard DDv4 Family vCPUs, Standard DSv3 Family vCPUs | Yugansh Dwivedi |
+| 30      | [u30@cloudlabs-att.online](mailto:u25@cloudlabs-att.online) | Canada Central       | Standard DDv4 Family vCPUs, Standard DSv3 Family vCPUs | Yugansh Dwivedi |
