@@ -7,7 +7,7 @@
 | 5       | [u05@cloudlabs-att.online](mailto:u05@cloudlabs-att.online) | Brazil South       | Standard DSv3 Family vCPUs, Standard Dv3 Family vCPUs  | Harikrishna Gowrabathina |
 | 6       | [u06@cloudlabs-att.online](mailto:u06@cloudlabs-att.online) | Brazil South       | Standard DSv3 Family vCPUs, Standard Dv3 Family vCPUs  | Ayushman Verma           |
 | 7       | [u07@cloudlabs-att.online](mailto:u07@cloudlabs-att.online) | Canada Central     | Standard DSv5 Family vCPUs, Standard Dv3 Family vCPUs  | Shubham Luthra           |
-| 8       | [u08@cloudlabs-att.online](mailto:u08@cloudlabs-att.online) | Canada Central     | Standard DSv5 Family vCPUs, Standard Dv3 Family vCPUs  | Harikrishna Gowrabathina |
+| 8       | [u08@cloudlabs-att.online](mailto:u08@cloudlabs-att.online) | Canada Central     | Standard DSv5 Family vCPUs, Standard Dv3 Family vCPUs  |  |
 | 9       | [u09@cloudlabs-att.online](mailto:u09@cloudlabs-att.online) | Canada Central     | Standard DSv5 Family vCPUs, Standard Dv3 Family vCPUs  | Karthik Ganesan          |
 | 10      | [u10@cloudlabs-att.online](mailto:u10@cloudlabs-att.online) | Central India      | Standard DSv3 Family vCPUs, Standard Dv3 Family vCPUs  | Kasirajan Nagendran      |
 | 11      | [u11@cloudlabs-att.online](mailto:u11@cloudlabs-att.online) | Central India      | Standard DSv3 Family vCPUs, Standard Dv3 Family vCPUs  | Nagarajan Murugesan      |
